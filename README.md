@@ -6,14 +6,6 @@
 - NOT pre-mined + ZERO team/insider allocations.
 - Token address: https://eclipsescan.xyz/token/64mggk2nXg6vHC1qCdsZdEFzd5QGN4id54Vbho4PswCF
 
----
-
-# Setup Guide
-## Presequities
-- Eclipse wallet (.eg `Backpack`) funded with ETH
-- A minimal CPU system or VPS, [Guide to buy and setup a VPS](https://github.com/0xmoei/Linux_Node_Guide).
-- Linux Ubuntu Terminal
-- Windows users: Must install Linux Ubuntu Terminal using WSL. **[Guide](https://github.com/0xmoei/Install-Linux-on-Windows)**
 
 ---
 
@@ -51,7 +43,7 @@ solana --version
 
 **4. Switch RPC**
 ```bash
-solana config set --url https://eclipse.helius-rpc.com/
+solana config set --url https://bitz-000.eclipserpc.xyz/
 ```
 
 ---
